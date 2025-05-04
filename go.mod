@@ -1,3 +1,3 @@
-module github.com/gmahima/learn-golang
+module learn-golang
 
 go 1.24.2
